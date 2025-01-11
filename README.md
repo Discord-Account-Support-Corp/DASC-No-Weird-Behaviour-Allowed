@@ -1,0 +1,1 @@
+# DASC-No-Weird-Behaviour-Allowed
